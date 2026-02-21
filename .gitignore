@@ -1,3 +1,12 @@
 **__pycache__/**
 
 **.nix-**
+
+node_modules/
+dist/
+images/
+screenshots/
+.env
+.env.local
+*.local
+.DS_Store

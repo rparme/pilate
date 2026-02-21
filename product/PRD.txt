@@ -1,0 +1,173 @@
+Website Requirements — Executive Mobility & Core Program (NYC)
+1. Objective
+Create a minimal, premium landing page to validate demand for a private mobility & core strength coaching program targeting:
+
+Men 35–65
+
+Tech & finance professionals
+
+NYC-based (online + optional in-person sessions)
+
+Primary goal:
+Drive qualified applicants to complete an intake form.
+
+No e-commerce. No complex infrastructure. Single conversion goal.
+
+2. Positioning
+This is NOT a general Pilates site.
+
+Tone must be:
+
+Professional
+
+Structured
+
+Performance-oriented
+
+Calm and credible
+
+Executive-level
+
+Avoid:
+
+Fitness influencer aesthetic
+
+Bright colors
+
+“Yoga flow” tone
+
+Playful language
+
+Overly long copy
+
+3. Target Audience
+Men aged 35–65:
+
+Tech professionals
+
+Finance professionals
+
+Founders / leadership roles
+
+Sit 8–12 hours daily
+
+Experiencing stiffness (back, hips, neck)
+
+Interested in long-term strength & mobility
+
+4. Core Offer
+6-Week Private Spine & Mobility Reset
+
+Delivery:
+
+Online (Zoom)
+
+Optional in-person sessions in NYC
+
+Program includes:
+
+Personalized movement assessment
+
+Core strengthening
+
+Hip & spine mobility work
+
+Structured coaching
+
+Schedule-compatible sessions
+
+5. Page Structure (Single Landing Page)
+Section 1 — Hero
+Headline:
+NYC Professionals: Stay Strong, Mobile & Pain-Free — Even With Long Work Hours.
+
+Subheadline:
+Private mobility & core strength coaching for men in tech and finance. Available online or in-person in NYC.
+
+Primary CTA Button:
+Apply for a Free Assessment
+
+(Button links directly to Google Form)
+
+Section 2 — Problem
+Brief explanation of:
+
+Long work hours
+
+Sitting-related stiffness
+
+Core weakness
+
+Hip tightness
+
+Neck tension
+
+Tone: rational, not dramatic.
+
+Section 3 — Solution
+Introduce:
+The 6-Week Spine Reset
+
+Bullet list:
+
+Personalized assessment
+
+Targeted mobility routines
+
+Deep core strengthening
+
+Travel-friendly exercises
+
+Direct coaching
+
+Section 4 — Who This Is For
+Bullet qualification section:
+
+Men 35–65
+
+Tech/finance professionals
+
+8+ hours sitting daily
+
+Seeking structured coaching
+
+Interested in long-term performance
+
+Section 5 — About
+Short professional bio (concise, confident, structured).
+
+No long personal story.
+
+Section 6 — Final CTA
+Text:
+Limited beta spots available. Applications are reviewed individually.
+
+CTA Button:
+Apply for Free Assessment
+
+6. Design Requirements
+Style:
+
+Minimalist
+
+Executive
+
+Neutral color palette (black, white, dark navy, charcoal)
+
+Strong typography
+
+Large spacing
+
+No clutter
+
+No stock fitness clichés
+
+Images:
+Maximum 1–2 clean images.
+Examples:
+
+Professional man stretching in office
+
+Minimal home mobility session
+
+No group class imagery
