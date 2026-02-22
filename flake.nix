@@ -43,9 +43,9 @@
             nvm install 24
           fi
 
-          # Install Claude Code if not present
+          # Install Claude Code if not present (native installer, no Node.js required)
           if ! command -v claude &> /dev/null; then
-            npm install -g @anthropic-ai/claude-code
+            curl -fsSL https://claude.ai/install.sh | bash
           fi
         '';
       in
@@ -63,7 +63,7 @@
             # Bazel (bazelisk auto-downloads the version from .bazelversion)
             pkgs.bazelisk
 
-            # Claude Code (installed via npm globally in shellHook)
+            # Claude Code (installed via native installer in zshrc)
           ];
 
           shellHook = ''
